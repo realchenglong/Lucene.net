@@ -21,7 +21,8 @@ namespace LuceneDemo
         private void button1_Click(object sender, EventArgs e)
         {
             string strWord = textBox1.Text;
-            Lucene.Net.Analysis.Analyzer analyzer = new Lucene.Net.Analysis.an();
+            Lucene.Net.Util.Version AppLuceneVersion = Lucene.Net.Util.Version.LUCENE_30;
+            Lucene.Net.Analysis.Analyzer analyzer = new Lucene.Net.Analysis.Standard.StandardAnalyzer(AppLuceneVersion);
             cutWord(strWord, analyzer);
         }
 

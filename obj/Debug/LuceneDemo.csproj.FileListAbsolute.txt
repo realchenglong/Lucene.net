@@ -14,3 +14,9 @@ D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.csproj.Co
 D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.exe
 D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.pdb
 D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.PanguAnalysisTest.resources
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.csprojAssemblyReference.cache
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.Form1.resources
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.PanguAnalysisTest.resources
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.Properties.Resources.resources
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.csproj.GenerateResource.cache
+D:\chenglong\Project\Lucene4netProject\Lucene.net\obj\Debug\LuceneDemo.csproj.CoreCompileInputs.cache
