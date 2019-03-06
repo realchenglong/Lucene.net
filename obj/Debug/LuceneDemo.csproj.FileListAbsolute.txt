@@ -1,0 +1,16 @@
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.csprojAssemblyReference.cache
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.Form1.resources
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.Properties.Resources.resources
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.csproj.GenerateResource.cache
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.csproj.CoreCompileInputs.cache
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\LuceneDemo.exe.config
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\LuceneDemo.exe
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\LuceneDemo.pdb
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\Lucene.Net.dll
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\Lucene.Net.pdb
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\bin\Debug\Lucene.Net.xml
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.csproj.CopyComplete
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.exe
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.pdb
+D:\chenglong\Project\Lucene4netProject\LuceneDemo\obj\Debug\LuceneDemo.PanguAnalysisTest.resources
