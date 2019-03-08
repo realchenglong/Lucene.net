@@ -29,8 +29,11 @@ namespace LuceneDemo
         public List<String> cutWord(string word , Lucene.Net.Analysis.Analyzer analysis)
         {
             List<string> result = new List<string>();
-            TokenStream tokenStream = analysis.ReusableTokenStream("", new StringReader(word));
+            //TokenStream tokenStream = analysis.ReusableTokenStream("", new StringReader(word));
+            TokenStream tokenStream = analysis.ReusableTokenStream("field1", new StringReader(word));
+            AttrbuteClass attrbutes = tokenStream.GetAttribute<AttrbuteClass>();
             //Token token = tokenStream.;
+            //PanGu.Segment segment = new PanGu.Segment();
 
             return result;
         }
@@ -62,6 +65,11 @@ namespace LuceneDemo
             }
             return result;
 
+        }
+
+        public class AttrbuteClass:Lucene.Net.Util.IAttribute
+        {
+            string field1 = "";
         }
     }
 }

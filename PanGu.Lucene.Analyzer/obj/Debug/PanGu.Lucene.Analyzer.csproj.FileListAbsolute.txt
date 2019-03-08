@@ -1,0 +1,10 @@
+D:\迅雷下载\PanGu_SourceCode_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\bn\Documents\Visual Studio 2010\Projects\SearchSentence\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\bn\Documents\Visual Studio 2010\Projects\SearchSentence\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\bn\Documents\Visual Studio 2010\Projects\SearchSentence\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\bn\Documents\Visual Studio 2010\Projects\SearchSentence\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\bn\Documents\Visual Studio 2010\Projects\SearchSentence\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\tyl\Desktop\SearchSentence\SearchSentence\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\tyl\Desktop\SearchSentence\SearchSentence\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\tyl\Desktop\SearchSentence\SearchSentence\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\tyl\Desktop\SearchSentence\SearchSentence\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb

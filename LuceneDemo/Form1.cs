@@ -40,7 +40,7 @@ namespace LuceneDemo
             Lucene.Net.Util.Version AppLuceneVersion = Lucene.Net.Util.Version.LUCENE_30;
             Lucene.Net.Analysis.Analyzer analyzer = new Lucene.Net.Analysis.Standard.StandardAnalyzer(AppLuceneVersion);
             //Lucene.Net.Analysis.Analyzer analyzer = new PanGuAnalyzer();
-            Lucene.Net.Analysis.SimpleAnalyzer simpleAnalyzer = new SimpleAnalyzer();
+            //Lucene.Net.Analysis.SimpleAnalyzer simpleAnalyzer = new SimpleAnalyzer();
             FSDirectory dir = FSDirectory.Open(indexLocation);
             //create an index writer 
             IndexWriter iw = new IndexWriter(dir, analyzer, IndexWriter.MaxFieldLength.UNLIMITED);
