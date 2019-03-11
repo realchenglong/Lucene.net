@@ -16,7 +16,7 @@ namespace LuceneDemo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PanguAnalysisTest());
+            Application.Run(new Form1());
         }
     }
 }
